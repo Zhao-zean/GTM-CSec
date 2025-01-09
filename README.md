@@ -1,8 +1,12 @@
 # GTM-CSec
 博弈论期末课设
+
 参考论文对 GTM-CSec进行仿真实现
+
 论文链接：https://www.sciencedirect.com/science/article/abs/pii/S0167404820300195
+
 运行GTM-CSec.py文件，并输入所需运行的模型序号和运行时间即可。
+
 运行结果如图所示：
 
 ![case6](https://github.com/user-attachments/assets/a04d57e6-b446-4fd2-8aa3-932eba5d4413)
